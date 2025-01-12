@@ -4,7 +4,7 @@ My name is Logan Shields, and I am currently a student at Brigham Young Universi
 # Experience / Projects
 While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on research projects centered around Machine Learning and Artificial Intelligence.
 
-## Human-Centered Machine Intelligence Lab with Dr. Michael Goodrich
+## Human-Centered Machine Intelligence Lab Projects with Dr. Michael Goodrich (April 2024 - Present)
 ### BT_Sim
 
 #### *What Learned*
