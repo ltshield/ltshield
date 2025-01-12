@@ -7,8 +7,7 @@ While pursuing a degree in Mechanical Engineering, I have also had the opportuni
 ## Human-Centered Machine Intelligence Lab with Dr. Michael Goodrich 
 *April 2024 - Present*
 
-### BT_Sim 🐜 : Grammatical Evolution in a Virtual Swarm Environment
-Link to my BT_Sim Repository ::- [BT_Sim](https://github.com/ltshield/bt_sim)
+### [BT_Sim](https://github.com/ltshield/bt_sim) 🐜 : Grammatical Evolution in a Virtual Swarm Environment
 
 #### *What Learned*
 
