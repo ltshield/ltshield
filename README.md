@@ -8,7 +8,7 @@ While pursuing a degree in Mechanical Engineering, I have also had the opportuni
 *April 2024 - Present*
 
 ### BT_Sim 🐜 
-#### Grammatical Evolution in a Virtual Swarm Environment
+### Grammatical Evolution in a Virtual Swarm Environment
 
 #### *What Learned*
 
