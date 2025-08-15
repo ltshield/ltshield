@@ -2,7 +2,7 @@
 My name is Logan Shields, and I am currently a student at Brigham Young University (BYU) in Provo, pursuing a degree in Mechanical Engineering with minors in Mathematics and Computer Science. I am passionate about working in the overlap between mechanical engineering and artificial intelligence, particularly within the realm of biomedical technologies. My goal is to work on projects that develop innovative solutions to improve the quality of life of individuals facing physical challenges.
 
 # Experience / Projects
-While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on research projects centered around Machine Learning and Artificial Intelligence.
+While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on research projects centered around Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
 
 ## Human-Centered Machine Intelligence Lab with Dr. Michael Goodrich 
 *April 2024 - Present*
