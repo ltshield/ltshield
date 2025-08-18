@@ -5,7 +5,7 @@ My name is Logan Shields, and I am currently a student at Brigham Young Universi
 While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on certain research and class projects centered around Software Development, Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
 
 ## Class Work
-### [Chess Server](https://github.com/ltshield/chess) : Chess Server
+### [Chess Server](https://github.com/ltshield/chess) ♟️ : Chess Server
 
 #### *What Learned*
 Experience with developing a full-stack application in Java with networked client-server architecture, a command-line client, a SQL and local database, a server to manage users and games, and shared modules for implementing chess logic, rules, and game state management. Also learned about and implemented HTTP communications between client and server as well as websocket communication between clients when in-game.
@@ -19,7 +19,7 @@ Experience with developing a full-stack application in Java with networked clien
 
 This project further developed my understanding of the concept of grammatical evolution through rigorous trial and error. I perused many an academic research paper in search of ideas and/or methods that I could implement to improve my simulation while also familiarizing myself with the field. A project of this size taught me a lot about good coding practices to implement in future projects. I became more familiar with the benefits of git, learned useful debugging practices, the importance of clean and readable/understandable code with inlaid comment explanations, and even strengthened effective communication skills with my team members as we all individually tried our hand at the project.
 
-### [Communal_Pool_Sim](https://github.com/ltshield/communal_pool_sim) : Grammatical Evolution in a Virtual Swarm Environment
+### [Communal_Pool_Sim](https://github.com/ltshield/communal_pool_sim) 🤝 : Grammatical Evolution in a Virtual Swarm Environment
 
 #### *What Learned*
 
