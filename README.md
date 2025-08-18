@@ -19,7 +19,7 @@ This project gave me experience with developing a full-stack application in Java
 
 This project further developed my understanding of the concept of grammatical evolution through rigorous trial and error. I perused many an academic research paper in search of ideas and/or methods that I could implement to improve my simulation while also familiarizing myself with the field. A project of this size taught me a lot about good coding practices to implement in future projects. I became more familiar with the benefits of git, learned useful debugging practices, the importance of clean and readable/understandable code with inlaid comment explanations, and even strengthened effective communication skills with my team members as we all individually tried our hand at the project.
 
-### [Communal_Pool_Sim](https://github.com/ltshield/communal_pool_sim) 🤝 : Grammatical Evolution in a Virtual Swarm Environment
+### [Communal_Pool_Sim](https://github.com/ltshield/communal_pool_sim) 🤝 : Simulated Community Cooperation for Escaping Poverty
 
 #### *What Learned*
 
