@@ -8,7 +8,7 @@ While pursuing a degree in Mechanical Engineering, I have also had the opportuni
 ### [Chess Server](https://github.com/ltshield/chess) ♟️ : Chess Server
 
 #### *What Learned*
-Experience with developing a full-stack application in Java with networked client-server architecture, a command-line client, a SQL and local database, a server to manage users and games, and shared modules for implementing chess logic, rules, and game state management. Also learned about and implemented HTTP communications between client and server as well as websocket communication between clients when in-game.
+This project gave me experience with developing a full-stack application in Java with networked client-server architecture, a command-line client, a SQL and local database, a server to manage users and games, and shared modules for implementing chess logic, rules, and game state management. Also learned about and implemented HTTP communications between client and server as well as websocket communication between clients when in-game.
 
 ## Human-Centered Machine Intelligence Lab with Dr. Michael Goodrich 
 *April 2024 - Present*
