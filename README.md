@@ -2,7 +2,13 @@
 My name is Logan Shields, and I am currently a student at Brigham Young University (BYU) in Provo, pursuing a degree in Mechanical Engineering with minors in Mathematics and Computer Science. I am passionate about working in the overlap between mechanical engineering and artificial intelligence, particularly within the realm of biomedical technologies. My goal is to work on projects that develop innovative solutions to improve the quality of life of individuals facing physical challenges.
 
 # Experience / Projects
-While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on research projects centered around Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
+While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on certain research and class projects centered around Software Development, Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
+
+## Class Work
+### [Chess Server] (https://github.com/ltshield/chess) : Chess Server
+
+#### *What Learned*
+Experience with developing a full-stack application in Java with networked client-server architecture, a command-line client, a SQL and local database, a server to manage users and games, and shared modules for implementing chess logic, rules, and game state management. Also learned about and implemented HTTP communications between client and server as well as websocket communication between clients when in-game.
 
 ## Human-Centered Machine Intelligence Lab with Dr. Michael Goodrich 
 *April 2024 - Present*
@@ -11,13 +17,13 @@ While pursuing a degree in Mechanical Engineering, I have also had the opportuni
 
 #### *What Learned*
 
-This project further developed my understanding of the concept of grammatical evolution through rigorous trial and error. I perused many an academic research paper in search of ideas and/or methods that I could implement to improve my simulation while also familiarizing myself with the field. A project of this size taught me a lot about good coding practices to implement in future projects. I became more familiar with the benefits of git, learned useful debugging practices, the importance of CLEAN and readable/understandable code with inlaid comment explanations, and even strengthened effective communication skills with my team members as we all individually tried our hand at the project.
+This project further developed my understanding of the concept of grammatical evolution through rigorous trial and error. I perused many an academic research paper in search of ideas and/or methods that I could implement to improve my simulation while also familiarizing myself with the field. A project of this size taught me a lot about good coding practices to implement in future projects. I became more familiar with the benefits of git, learned useful debugging practices, the importance of clean and readable/understandable code with inlaid comment explanations, and even strengthened effective communication skills with my team members as we all individually tried our hand at the project.
 
-#### *More Information About the Project*
+### [Communal_Pool_Sim] (https://github.com/ltshield/communal_pool_sim) : Grammatical Evolution in a Virtual Swarm Environment
 
-One such project is listed in my BT_Sim repository. The goal of the project was to familiarize our team with grammatical evolution, a type of genetic algorithm, and to develop a simulation that would enable us to see in a virtual environment the benefits of such a method of solution-finding, specifically in a biologically-inspired random environment where a correct solution is not necessarily known. Many decisions regarding the implementation of the algorithm as well as the agent and environment classes were left to me to decide. The grammar used to determine the behavior trees that our agents would use in the simulation was also developed personally.
+#### *What Learned*
 
-The environment was to resemble a population of "ants" or other biological gatherer searching for food. Food was to be randomly distributed around the environment and the agents (or ants) were to search for food and return it to the den. Each agent had a particular genome that would be used to parse a grammar and provide the ant with a behaviour tree to implement in the simulation. Agents would then "share" genomes with each other when they "bumped" into each other, thereby sharing their genomes with an attached "score" based on how well they had been doing at finding, picking up, and returning food to the den. After a certain threshold of "poor activity" was met, agents would decide to "evolve" and perform genetic operations on their dictionary of collected genome and genome_score pairs to hopefully implement a behavior better capable of accomplishing the task at hand. With every agent acting in accordance with their own respective behavior tree, we hoped to see a population-wide behavior (or behaviors) emerge that maximized the agents' potential to find and gather food.
+This project introduced me to economic theory as applied to communities in poverty. It reflected some work that had been done previously by researchers looking into a possible intervention for increasing accountability and cooperation across a community for the purpose of helping the community as a whole to escape poverty. I learned various visualization methods and became aware of a few of the metrics used in social sciences for measuring inequality in a community, such as the Gini coefficient.
 
 <!--
 maybe include a comment about how we discovered that we were doing two different kinds of grammatical evolution and got to learn from that
