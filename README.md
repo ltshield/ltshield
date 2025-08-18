@@ -5,6 +5,7 @@ My name is Logan Shields, and I am currently a student at Brigham Young Universi
 While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on certain research and class projects centered around Software Development, Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
 
 ## Class Work
+BYU CS 240: Summer 2025
 ### [Chess Server](https://github.com/ltshield/chess) ♟️ : Chess Server
 
 #### *What Learned*
