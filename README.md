@@ -1,5 +1,5 @@
 # Hello!
-My name is Logan Shields, and I am currently a student at Brigham Young University (BYU) in Provo, pursuing a degree in Mechanical Engineering with minors in Mathematics and Computer Science. I am passionate about working with cross-functional teams to find solutions to meaningful problems and to ultimately help people. My goal is to work on projects that develop innovative solutions to improve the quality of life of individuals facing physical challenges.
+My name is Logan Shields, and I am currently a student at Brigham Young University (BYU) in Provo, pursuing a degree in Mechanical Engineering with minors in Mathematics and Computer Science. I am passionate about working with cross-functional teams to find solutions to meaningful problems and ultimately want my work to make a difference in the world and to help people with real-world problems. My goal is to work on projects that develop innovative solutions to improve the quality of life of individuals facing physical challenges.
 
 # Experience / Projects
 While pursuing a degree in Mechanical Engineering, I have also had the opportunity to work on certain research and class projects centered around Software Development, Machine Learning, Artificial Intelligence, and Network Science Theory and Applications.
