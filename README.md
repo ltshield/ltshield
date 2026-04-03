@@ -13,7 +13,13 @@ While pursuing a degree in Mechanical Engineering, I have also had the opportuni
 This project enabled me to work with a team to identify a need and develop a product that meets that need, emphasizing the development of a tool that works to solve that problem over anything else. Gained experience developing agentic LLM workflows that can interpret natural-language teacher queries, write and execute Python code dynamically, and return validated insights — focusing heavily on reliability, context preservation, and execution safety. Designed modular grading pipelines that support dynamic rubric mapping, multi-standard scoring, and auditability (every automated decision is traceable with highlighted evidence). Pivoted the product direction mid-build after user testing revealed that essay grading automation was far more valuable than data analysis alone — coordinated team buy-in and re-scoped roadmap without losing development velocity. Ran live user studies with educators, collecting real-time feedback and transforming criticism into rapid roadmap iterations. Most of all, learned how to balance engineering ambition with product discipline by focusing on “what removes the most friction for the user the fastest” rather than over-abstracting of complicating the product.
 
 ## Class Work
-*BYU CS 240 - Summer 2025*
+*BYU MeEn 330: Mechatronics - Winter 2026*
+### [B0BB1 Mini Mars Rover](https://github.com/ltshield/bobbiMarsRover) 🤖 : Autonomous Robot
+
+#### *What Learned*
+To be filled in.
+
+*BYU CS 240: Software Development - Summer 2025*
 ### [Chess Server](https://github.com/ltshield/chess) ♟️ : Chess Server
 
 #### *What Learned*
