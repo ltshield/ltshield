@@ -17,7 +17,7 @@ This project enabled me to work with a team to identify a need and develop a pro
 ### [B0BB1 Mini Mars Rover](https://github.com/ltshield/bobbiMarsRover) 🤖 : Autonomous Robot
 
 #### *What Learned*
-To be filled in.
+This semester-long project required extensive hands-on electromechanical work designing, constructing, and coding an autonomous robot capable of navigating a variable course of four tasks. This project required us to integrate various sensors and electrical components and required us to develop a robust finite state machine that would enable the robot to understand where in the course it was and how to monitor the various sensor readings such that it could identify the location and timing of each task. Further discussion regarding the components used, our FSM, and my team's overall process in going about this project are described in the respective repository linked above.
 
 *BYU CS 240: Software Development - Summer 2025*
 ### [Chess Server](https://github.com/ltshield/chess) ♟️ : Chess Server
